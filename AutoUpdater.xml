@@ -1,8 +1,3 @@
-https://github.com/TheNewR00t/Pruebas/raw/main/TheNewRoot-x64.zip
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>1.0.0.0</version>
-  <url>https://github.com/TheNewR00t/Pruebas/raw/main/TheNewRoot-x64.zip</url>
-  <changelog>https://github.com/TheNewR00t/TheNewR00tLauncher/releases</changelog>
-  <mandatory>false</mandatory>
-</item>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea91f7fd2b2a9c429a3f3aaca9fe61c83eeba746dec3050aa58f3af3d04cf11
+size 283
